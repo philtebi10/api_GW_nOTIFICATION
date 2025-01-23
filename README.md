@@ -54,8 +54,8 @@ sports-api-management/
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/ifeanyiro9/containerized-sports-api.git
-cd containerized-sports-api
+[git clone https://github.com/ifeanyiro9/containerized-sports-api.git](https://github.com/philtebi10/api_GW_notification.git)
+cd api_GW_notification
 ```
 ### **Create ECR Repo**
 ```bash
