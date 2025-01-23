@@ -23,7 +23,7 @@ This project demonstrates building a containerized API management system for que
 ---
 
 ## **Technical Architecture**
-![Brown Minimalist Lifestyle Daily Vlog YouTube Thumbnail (2)](https://github.com/user-attachments/assets/32e49fe6-df16-40cb-b262-af1478cf01d5)
+[![Brown Minimalist Lifestyle Daily Vlog YouTube Thumbnail (2)](https://github.com/user-attachments/assets/32e49fe6-df16-40cb-b262-af1478cf01d5)](https://github.com/philtebi10/api_GW_nOTIFICATION/blob/master/Architecture.png)
 
 ---
 
